@@ -30,7 +30,8 @@ Ce projet a été réalisé dans le cadre du module Meilleures pratiques du cour
  Auteur du dépôt
 - Nom : Mike Alladoum
 - Pays : Togo 🇹🇬
-- LinkedIn : [Lien vers ton profil]
+- LinkedIn : https://www.linkedin.com/in/mike-alladoum-a557102a1?  utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
 - Projet réalisé 14/09/2025
 
 
